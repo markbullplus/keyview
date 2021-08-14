@@ -1,5 +1,23 @@
+# Folder
+.vs/
+Chars.tlog/
+Debug/
+KeyView.tlog/
+KeyView/Release/
+
 # Prerequisites
 *.d
+*.user
+*.log
+*.iobj
+*.ipdb
+*.log
+*.pdb
+*.res
+*.pdb
+*.scc
+*.tlog
+*.lastbuildstate
 
 # Compiled Object files
 *.slo
@@ -27,6 +45,6 @@
 *.lib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
